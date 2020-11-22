@@ -48,4 +48,4 @@ A compilation of compromised philippine government websites in 2020.
 | Davao de Oro Province | https://www.davaodeoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34369777) | 2020-11-18 | [Still Vulnerable](https://www.davaodeoro.gov.ph/lolz.htm) |
 | Department of the Interior and Local Government (DILG)* | http://*.dilg.gov.ph/ | [View](http://zone-h.org/mirror/id/34374856) | 2020-11-20 | Fixed |
 
-* Subdomains were also affected.
+*Subdomains were also affected.
