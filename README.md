@@ -12,16 +12,16 @@ A compilation of compromised philippine government websites in 2020.
 | Food and Drug Administration (FDA) | https://www.fda.gov.ph/ | [View](http://zone-h.org/mirror/id/33201063) | 2020-02-10 | Fixed |
 | Movie and Television Review and Classification Board (MTRCB) | https://mtrcb.gov.ph/ | [View](http://zone-h.org/mirror/id/33208744) | 2020-02-15 | Fixed |
 | Department of Labor and Employment-Bureau of Local Employment (DOLE) | https://www.philjobnet.gov.ph/ | [View](http://zone-h.org/mirror/id/33231341) | 2020-02-23 | Deprecated |
-| City of Baybay, Leyte | https://baybaycity.gov.ph/ | [View](http://zone-h.org/mirror/id/33311590) | 2020-04-03 | [Still Vulnerable](https://baybaycity.gov.ph/BD.txt) |
+| City of Baybay, Leyte | https://baybaycity.gov.ph/ | [View](http://zone-h.org/mirror/id/33311590) | 2020-04-03 | [Still Compromised](https://baybaycity.gov.ph/BD.txt) |
 | Foreign Service Institute (FSI) | https://www.fsi.gov.ph/ | [View](http://zone-h.org/mirror/id/33328223) | 2020-04-12 | Fixed | 
 | Bataan Province* | https://*.bataan.gov.ph/ | [View](http://zone-h.org/mirror/id/33329996) | 2020-04-12 | Fixed |
 | City of San Fernando, Pampanga | https://cityofsanfernando.gov.ph/ | [View](http://zone-h.org/mirror/id/33369557) | 2020-04-28 | Fixed |
-| City of Getafe, Bohol | http://g3.getafe.gov.ph | [View](http://webcache.googleusercontent.com/search?q=cache:http://g3.getafe.gov.ph) | 2020-05-01 | [Still Vulnerable](http://g3.getafe.gov.ph/) |
+| City of Getafe, Bohol | http://g3.getafe.gov.ph | [View](http://webcache.googleusercontent.com/search?q=cache:http://g3.getafe.gov.ph) | 2020-05-01 | [Still Compromised](http://g3.getafe.gov.ph/) |
 | City of Victoria, Tarlac | https://www.victoriatarlac.gov.ph/ | [View](http://zone-h.org/mirror/id/33448997) | 2020-05-10 | Fixed |
 | City of Mexico, Pampanga* | https://*.mexicopampanga.gov.ph/ | [View](http://zone-h.org/mirror/id/33449204) | 2020-05-10 | Fixed |
 | City of Balaoan, La Union* | https://*.balaoanlaunion.gov.ph/ | [View](http://zone-h.org/mirror/id/33449407) | 2020-05-10 | Fixed |
 | City of Anao, Tarlac | https://www.anaotarlac.gov.ph/ | [View](http://zone-h.org/mirror/id/33449411) | 2020-05-10 | Fixed |
-| Department of Education - Neuva Vizcaya | http://deped-nv.com.ph/ | [View](http://zone-h.org/mirror/id/33478828) | 2020-05-13 | [Still Vulnerable](http://deped-nv.com.ph/xpro.html) |
+| Department of Education - Neuva Vizcaya | http://deped-nv.com.ph/ | [View](http://zone-h.org/mirror/id/33478828) | 2020-05-13 | [Still Compromised](http://deped-nv.com.ph/xpro.html) |
 | City of Milaor, Camarines Sur | http://milaor.gov.ph/ | [View](http://zone-h.org/mirror/id/33507167) | 2020-05-19 | Fixed |
 | Office of the Presidential Assistance for the Visayas | https://projectbalikbuhay.com.ph | [View](http://zone-h.org/mirror/id/33952541) | 2020-06-13| Fixed |
 | Department of Education - CARAGA | http://caraga.deped.gov.ph | [View](http://zone-h.org/mirror/id/33967157) | 2020-06-18 | Fixed |
@@ -37,11 +37,11 @@ A compilation of compromised philippine government websites in 2020.
 | Bureau of Agricultural Research | http://compendium.bar.gov.ph/ | [View](http://zone-h.org/mirror/id/34129252) | 2020-08-19 | Deprecated |
 | Armed Forces of the Philippines | http://www.afpetdc.mil.ph | [View](http://zone-h.org/mirror/id/34146819) | 2020-09-01 | Deprecated |
 | Armed Forces of the Philippines* | https://*.afppensionpgmc.mil.ph/ | [View](http://zone-h.org/mirror/id/34172126) | 2020-09-04 | Fixed |
-| City of Cordova, Cebu | https://cordova.gov.ph/ | [View](http://zone-h.org/mirror/id/34175881) | 2020-09-06 | [Still Vulnerable](https://cordova.gov.ph/images/logs.txt) |
-| City of General Santos, South Cotabato | http://home.gensantos.gov.ph/ | [View](http://zone-h.org/mirror/id/34178126) | 2020-09-08 | [Still Vulnerable](http://home.gensantos.gov.ph/xxx.htm) |
+| City of Cordova, Cebu | https://cordova.gov.ph/ | [View](http://zone-h.org/mirror/id/34175881) | 2020-09-06 | [Still Compromised](https://cordova.gov.ph/images/logs.txt) |
+| City of General Santos, South Cotabato | http://home.gensantos.gov.ph/ | [View](http://zone-h.org/mirror/id/34178126) | 2020-09-08 | [Still Compromised](http://home.gensantos.gov.ph/xxx.htm) |
 | Benguet Province | http://benguetpms.gov.ph/ | [View](http://zone-h.org/mirror/id/34210060) | 2020-09-14 | Fixed |
 | Philippine National Police Engineering Service (PNPES) | https://pnpes.org.ph/ | [View](http://zone-h.org/mirror/id/34210784) | 2020-09-14 | Fixed |
-| Department of Health (DOH) - Region 4 | https://quasar.ro4b.doh.gov.ph/ | [View](http://zone-h.org/mirror/id/34214440) | 2020-09-15 | [Still Vulnerable](https://quasar.ro4b.doh.gov.ph/s.html) |
+| Department of Health (DOH) - Region 4 | https://quasar.ro4b.doh.gov.ph/ | [View](http://zone-h.org/mirror/id/34214440) | 2020-09-15 | [Still Compromised](https://quasar.ro4b.doh.gov.ph/s.html) |
 | Philippine Government Electronic Procurement System (PhilGEPS) | http://notices.ps-philgeps.gov.ph | [View](http://zone-h.org/mirror/id/34224580) | 2020-09-18 | Fixed |
 | City of Santa Cruz, Laguna | https://santacruzlaguna.gov.ph/ | [View](http://zone-h.org/mirror/id/34225676) | 2020-09-19 | Fixed |
 | Philippine Statistical Researcher and Training Institute (PSRTI)* | http://*.psrti.gov.ph/ | [View](http://zone-h.org/mirror/id/34227933) | 2020-09-20  | Fixed |
@@ -49,7 +49,21 @@ A compilation of compromised philippine government websites in 2020.
 | National Privacy Commission | https://www.privacy.gov.ph | [View](http://zone-h.org/mirror/id/34252199) | 2020-09-30 | Fixed |
 | Department of Environment and Natural Resources (DENR)* | https://*.denr.gov.ph/ | [View](http://zone-h.org/mirror/id/34288731) | 2020-10-20 | Fixed |
 | Oriental Mindoro Province | https://ormindoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34321595) | 2020-11-01 | Fixed |
-| Davao de Oro Province | https://www.davaodeoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34369777) | 2020-11-18 | [Still Vulnerable](https://www.davaodeoro.gov.ph/lolz.htm) |
+| Davao de Oro Province | https://www.davaodeoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34369777) | 2020-11-18 | [Still Compromised](https://www.davaodeoro.gov.ph/lolz.htm) |
 | Department of the Interior and Local Government (DILG)* | http://*.dilg.gov.ph/ | [View](http://zone-h.org/mirror/id/34374856) | 2020-11-20 | Fixed |
 
 *Subdomains were also affected.
+
+---
+
+List of websites that are still compromised
+
+| Owner | Compromised Website | Mirror | Compromised Since | Status |
+| --- | --- | --- | --- | --- |
+| Davao Integrated Development Program (DIDP) | http://didp.gov.ph/ | [View](http://zone-h.org/mirror/id/25159137) | 2015-11-30 | [Still Compromised](http://didp.gov.ph/r0x.html) |
+| City of Catbalogan, Samar | http://www.catbalogan.gov.ph/ | [View](http://web.archive.org/web/20170601202949/http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/) | 2017-05-05 | [Still Compromised](http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/) |
+| City of Brooke's Point, Palawan | http://brookespointpalawan.gov.ph/ | [View](http://web.archive.org/web/20190305144940/http://brookespointpalawan.gov.ph/x/) | 2018-11-13 | [Still Compromised](http://brookespointpalawan.gov.ph/x/) |
+| Department of Health - Region 10 | http://www.ro10.doh.gov.ph/11-transparency-seal/key-officials/925-lulz | [View](http://webcache.googleusercontent.com/search?q=cache:http://www.ro10.doh.gov.ph/11-transparency-seal/key-officials/925-lulz) | 2018-11-30 | [Still Compromised](http://www.ro10.doh.gov.ph/11-transparency-seal/key-officials/925-lulz) |
+| Philippine Institure for Development Studies | https://dirp3.pids.gov.ph/ | [View](https://webcache.googleusercontent.com/search?q=cache:Iq_G2aTfmI0J:https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm+&cd=46&hl=en&ct=clnk&gl=ph) | 2020-11-09 | [Still Compromised](https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm) | 
+| City of Malay, Aklan | http://new.malay.gov.ph/ | [View](http://webcache.googleusercontent.com/search?q=cache:http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/) | 2020 | [Still Compromised](http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/) |
+| Office of the Solicitor General | http://career.osg.gov.ph/ | [View](http://webcache.googleusercontent.com/search?q=cache:http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html) | 2020 | [Still Compromised](http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html) |
