@@ -21,7 +21,9 @@ A compilation of compromised philippine government websites in 2020.
 | City of Mexico, Pampanga* | https://*.mexicopampanga.gov.ph/ | [View](http://zone-h.org/mirror/id/33449204) | 2020-05-10 | Fixed |
 | City of Balaoan, La Union* | https://*.balaoanlaunion.gov.ph/ | [View](http://zone-h.org/mirror/id/33449407) | 2020-05-10 | Fixed |
 | City of Anao, Tarlac | https://www.anaotarlac.gov.ph/ | [View](http://zone-h.org/mirror/id/33449411) | 2020-05-10 | Fixed |
+| Department of Education - Neuva Vizcaya | http://deped-nv.com.ph/ | [View](http://zone-h.org/mirror/id/33478828) | 2020-05-13 | [Still Vulnerable](http://deped-nv.com.ph/xpro.html) |
 | City of Milaor, Camarines Sur | http://milaor.gov.ph/ | [View](http://zone-h.org/mirror/id/33507167) | 2020-05-19 | Fixed |
+| Office of the Presidential Assistance for the Visayas | https://projectbalikbuhay.com.ph | [View](http://zone-h.org/mirror/id/33952541) | 2020-06-13| Fixed |
 | Department of Education - CARAGA | http://caraga.deped.gov.ph | [View](http://zone-h.org/mirror/id/33967157) | 2020-06-18 | Fixed |
 | Department of the Interior and Local Government (DILG) - Region 3* | http://*.region3.dilg.gov.ph/ | [View](http://zone-h.org/mirror/id/34007941) | 2020-06-27 |  Server Error |
 | Bohol Province* | https://*.bohol.gov.ph/ | [View](http://zone-h.org/mirror/id/34050348) | 2020-07-11 | Fixed |
@@ -31,12 +33,14 @@ A compilation of compromised philippine government websites in 2020.
 | La Union Province* | https://*.launion.gov.ph/ | [View](http://zone-h.org/mirror/id/34058632) | 2020-07-18 | Deprecated |
 | City of General Santos, South Cotabato* | https://*.gensantos.gov.ph/ | [View](http://zone-h.org/mirror/id/34101079) | 2020-08-05 | Fixed |
 | Department of Education - Laguna | http://als.laguna.gov.ph/ | [View](http://zone-h.org/mirror/id/34117937) | 2020-08-14 | Fixed? |
+| Department of Education - Bogo City | http://depedbogocitygov.ph/ | [View](http://zone-h.org/mirror/id/34128643) | 2020-08-18 | Fixed |
 | Bureau of Agricultural Research | http://compendium.bar.gov.ph/ | [View](http://zone-h.org/mirror/id/34129252) | 2020-08-19 | Deprecated |
 | Armed Forces of the Philippines | http://www.afpetdc.mil.ph | [View](http://zone-h.org/mirror/id/34146819) | 2020-09-01 | Deprecated |
 | Armed Forces of the Philippines* | https://*.afppensionpgmc.mil.ph/ | [View](http://zone-h.org/mirror/id/34172126) | 2020-09-04 | Fixed |
 | City of Cordova, Cebu | https://cordova.gov.ph/ | [View](http://zone-h.org/mirror/id/34175881) | 2020-09-06 | [Still Vulnerable](https://cordova.gov.ph/images/logs.txt) |
 | City of General Santos, South Cotabato | http://home.gensantos.gov.ph/ | [View](http://zone-h.org/mirror/id/34178126) | 2020-09-08 | [Still Vulnerable](http://home.gensantos.gov.ph/xxx.htm) |
 | Benguet Province | http://benguetpms.gov.ph/ | [View](http://zone-h.org/mirror/id/34210060) | 2020-09-14 | Fixed |
+| Philippine National Police Engineering Service (PNPES) | https://pnpes.org.ph/ | [View](http://zone-h.org/mirror/id/34210784) | 2020-09-14 | Fixed |
 | Department of Health (DOH) - Region 4 | https://quasar.ro4b.doh.gov.ph/ | [View](http://zone-h.org/mirror/id/34214440) | 2020-09-15 | [Still Vulnerable](https://quasar.ro4b.doh.gov.ph/s.html) |
 | Philippine Government Electronic Procurement System (PhilGEPS) | http://notices.ps-philgeps.gov.ph | [View](http://zone-h.org/mirror/id/34224580) | 2020-09-18 | Fixed |
 | City of Santa Cruz, Laguna | https://santacruzlaguna.gov.ph/ | [View](http://zone-h.org/mirror/id/34225676) | 2020-09-19 | Fixed |
