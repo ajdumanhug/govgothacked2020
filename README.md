@@ -19,8 +19,8 @@ Table below shows the status summary.
 | Server Error | 2 |
 | Deprecated | 5 | 
 | Still Compromised | 14 |
-| Fixed | 31 |
-| **Over all Total** | 52 |
+| Fixed | 32 |
+| **Over all Total** | 53 |
 
 **Disclaimer: The main purpose of the list is just to compile all the compromised Philippine government websites.**
 
@@ -43,6 +43,7 @@ Table below shows the status summary.
 | City of Anao, Tarlac | https://www.anaotarlac.gov.ph/ | [View](http://zone-h.org/mirror/id/33449411) | 2020-05-10 | Fixed |
 | Department of Education - Neuva Vizcaya | http://deped-nv.com.ph/ | [View](http://zone-h.org/mirror/id/33478828) | 2020-05-13 | [Still Compromised](http://deped-nv.com.ph/xpro.html) |
 | City of Milaor, Camarines Sur | http://milaor.gov.ph/ | [View](http://zone-h.org/mirror/id/33507167) | 2020-05-19 | Fixed |
+| Philippine Navy | https://covid19-cm.navy.mil.ph/ | [View](https://twitter.com/Xylit0l/status/1263148152204468227) | 2020-05-21 | Fixed |
 | Office of the Presidential Assistance for the Visayas | https://projectbalikbuhay.com.ph | [View](http://zone-h.org/mirror/id/33952541) | 2020-06-13| Fixed |
 | Department of Education - CARAGA | http://caraga.deped.gov.ph | [View](http://zone-h.org/mirror/id/33967157) | 2020-06-18 | Fixed |
 | Department of the Interior and Local Government (DILG) - Region 3* | http://*.region3.dilg.gov.ph/ | [View](http://zone-h.org/mirror/id/34007941) | 2020-06-27 |  Server Error |
