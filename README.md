@@ -1,8 +1,28 @@
 # Hacked Philippine Government Websites in 2020
 
-A compilation of compromised philippine government websites in 2020.
+### Introduction
+Just like illegal graffiti in the physical world, website defacement attacks can leave a visible mark on your digital assets. In carrying out this type of attack, cyber criminals typically substitute their own messages for existing content on their target website — whether these messages are intended to be political, religious, or random.
 
-**Disclaimer: I am not part of any bad hacking groups mentioned in the table below. The main purpose of this list is to compile all the compromised government websites.**
+The websites under the Philippine government is the most common target for website defacement. These type of illegal activities highlights the need of continuous and effective cybersecurity for the government agencies and services.
+
+### Summary
+From January 1, 2020 to November 30, 2020, I compiled all the compromised Philippine government websites.
+
+The objective of this compilation is to clearly show the need of continuous and effective cybersecurity in the country.
+
+Each compromised websites was visited to confirm the defacement or breach.
+
+Table below shows the status summary.
+
+| Status | Total |
+| --- | --- |
+| Server Error | 2 |
+| Deprecated | 5 | 
+| Still Compromised | 14 |
+| Fixed | 31 |
+| **Over all Total** | 52 |
+
+**Disclaimer: The main purpose of the list is just to compile all the compromised Philippine government websites.**
 
 | Owner | Compromised Website | Mirror | Mirror Date | Status |
 | --- | --- | --- | --- | --- |
@@ -52,7 +72,7 @@ A compilation of compromised philippine government websites in 2020.
 | Davao de Oro Province | https://www.davaodeoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34369777) | 2020-11-18 | [Still Compromised](https://www.davaodeoro.gov.ph/lolz.htm) |
 | Department of the Interior and Local Government (DILG)* | http://*.dilg.gov.ph/ | [View](http://zone-h.org/mirror/id/34374856) | 2020-11-20 | Fixed |
 
-*Subdomains were also affected.
+*Many subdomains were also affected.
 
 ---
 
@@ -60,10 +80,10 @@ List of websites that are still compromised
 
 | Owner | Compromised Website | Mirror | Compromised Since | Status |
 | --- | --- | --- | --- | --- |
-| Davao Integrated Development Program (DIDP) | http://didp.gov.ph/ | [View](http://zone-h.org/mirror/id/25159137) | 2015-11-30 | [Still Compromised](http://didp.gov.ph/r0x.html) |
-| City of Catbalogan, Samar | http://www.catbalogan.gov.ph/ | [View](http://web.archive.org/web/20170601202949/http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/) | 2017-05-05 | [Still Compromised](http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/) |
-| City of Brooke's Point, Palawan | http://brookespointpalawan.gov.ph/ | [View](http://web.archive.org/web/20190305144940/http://brookespointpalawan.gov.ph/x/) | 2018-11-13 | [Still Compromised](http://brookespointpalawan.gov.ph/x/) |
+| Davao Integrated Development Program (DIDP) | http://didp.gov.ph/r0x.html | [View](http://zone-h.org/mirror/id/25159137) | 2015-11-30 | [Still Compromised](http://didp.gov.ph/r0x.html) |
+| City of Catbalogan, Samar | http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/ | [View](http://web.archive.org/web/20170601202949/http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/) | 2017-05-05 | [Still Compromised](http://www.catbalogan.gov.ph/watch-full-movie-guardians-of-the-galaxy-vol-2-2017/) |
+| City of Brooke's Point, Palawan | http://brookespointpalawan.gov.ph/x/ | [View](http://web.archive.org/web/20190305144940/http://brookespointpalawan.gov.ph/x/) | 2018-11-13 | [Still Compromised](http://brookespointpalawan.gov.ph/x/) |
 | Department of Health - Region 10 | http://www.ro10.doh.gov.ph/11-transparency-seal/key-officials/925-lulz | [View](http://webcache.googleusercontent.com/search?q=cache:http://www.ro10.doh.gov.ph/11-transparency-seal/key-officials/925-lulz) | 2018-11-30 | [Still Compromised](http://www.ro10.doh.gov.ph/11-transparency-seal/key-officials/925-lulz) |
-| Philippine Institure for Development Studies | https://dirp3.pids.gov.ph/ | [View](https://webcache.googleusercontent.com/search?q=cache:Iq_G2aTfmI0J:https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm+&cd=46&hl=en&ct=clnk&gl=ph) | 2020-11-09 | [Still Compromised](https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm) | 
-| City of Malay, Aklan | http://new.malay.gov.ph/ | [View](http://webcache.googleusercontent.com/search?q=cache:http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/) | 2020 | [Still Compromised](http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/) |
-| Office of the Solicitor General | http://career.osg.gov.ph/ | [View](http://webcache.googleusercontent.com/search?q=cache:http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html) | 2020 | [Still Compromised](http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html) |
+| Philippine Institure for Development Studies | https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm | [View](https://webcache.googleusercontent.com/search?q=cache:Iq_G2aTfmI0J:https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm+&cd=46&hl=en&ct=clnk&gl=ph) | 2020-11-09 | [Still Compromised](https://dirp3.pids.gov.ph/ris/pitn/oathtaking/index1.htm) | 
+| City of Malay, Aklan | http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/ | [View](http://webcache.googleusercontent.com/search?q=cache:http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/) | 2020 | [Still Compromised](http://new.malay.gov.ph/2020/01/19/private-residential-elevators-on-line-gambling/) |
+| Office of the Solicitor General | http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html | [View](http://webcache.googleusercontent.com/search?q=cache:http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html) | 2020 | [Still Compromised](http://career.osg.gov.ph/onlineapplication/uploaded_files/5593_s.html) |
