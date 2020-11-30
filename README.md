@@ -1,12 +1,12 @@
 # Hacked Philippine Government Websites in 2020
 
 ### Introduction
-Just like illegal graffiti in the physical world, website defacement attacks can leave a visible mark on your digital assets. In carrying out this type of attack, cyber criminals typically substitute their own messages for existing content on their target website — whether these messages are intended to be political, religious, or random.
+Much the same as illegal graffiti in the actual world, website defacement attacks can leave an obvious mark on digital assets. In carrying out this type of cyber attack, cyber criminals normally substitute or replace their own messages for existing content on their target website — regardless of whether these messages are planned to be political or random.
 
-The websites under the Philippine government is the most common target for website defacement. These type of illegal activities highlights the need of continuous and effective cybersecurity for the government agencies and services.
+The websites under the Philippine government is the most common target for website defacement. These type of illegal activities highlights the need of continuous and effective cybersecurity for the government agencies and services in the country.
 
 ### Summary
-From January 1, 2020 to November 30, 2020, I compiled all the compromised Philippine government websites.
+From January 1, 2020 to November 30, 2020, I compiled all the compromised Philippine government websites including the websites that are still compromised before 2020.
 
 The objective of this compilation is to clearly show the need of continuous and effective cybersecurity in the country.
 
