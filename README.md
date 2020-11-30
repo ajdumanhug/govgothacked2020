@@ -20,7 +20,7 @@ Table below shows the status summary.
 | Deprecated | 5 | 
 | Still Compromised | 14 |
 | Fixed | 32 |
-| **Over all Total** | 53 |
+| **Overall Total** | 53 |
 
 **Disclaimer: The main purpose of the list is just to compile all the compromised Philippine government websites.**
 
