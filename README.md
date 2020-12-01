@@ -19,8 +19,8 @@ Table below shows the status summary.
 | Server Error | 2 |
 | Deprecated | 5 | 
 | Still Compromised | 14 |
-| Fixed | 33 |
-| **Overall Total** | 54 |
+| Fixed | 34 |
+| **Overall Total** | 55 |
 
 **Disclaimer: The main purpose of the list is just to compile all the compromised Philippine government websites.**
 
@@ -71,6 +71,7 @@ Table below shows the status summary.
 | Department of Environment and Natural Resources (DENR)* | https://*.denr.gov.ph/ | [View](http://zone-h.org/mirror/id/34288731) | 2020-10-20 | Fixed |
 | Oriental Mindoro Province | https://ormindoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34321595) | 2020-11-01 | Fixed |
 | PAGCOR | https://pagcor.ph/ | [View](https://i.imgur.com/3yLzY2T.jpg) (Photo from Hades of Hackers) | 2020-11-05 | Fixed |
+| Land Transportation Office | https://www.lto.net.ph/ | [View](https://atom.hackstreetboys.ph/lisensya-website-and-why-you-should-never-use-it/) | 2020-11-05 | Fixed |
 | Davao de Oro Province | https://www.davaodeoro.gov.ph/ | [View](http://zone-h.org/mirror/id/34369777) | 2020-11-18 | [Still Compromised](https://www.davaodeoro.gov.ph/lolz.htm) |
 | Department of the Interior and Local Government (DILG)* | http://*.dilg.gov.ph/ | [View](http://zone-h.org/mirror/id/34374856) | 2020-11-20 | Fixed |
 
